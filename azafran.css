@@ -1,6 +1,6 @@
 body {
     width: 1900px;
-background-image: url(imagenes/texturizado.jpg);
+background-image: url(texturizado.jpg);
 background-size: cover;
 background-position: c;
 
@@ -18,5 +18,6 @@ h1, h2, h3, p {
 
 .imgs{
   width: 200px;
+
 
 }
